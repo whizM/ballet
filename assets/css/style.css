@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Noto+Sans+JP:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=notoserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Noto+Sans+JP:wght@400;500;600;700&display=swap");
 @font-face {
   font-family: "UDDigiKyokashoN-R";
   src: url("fonts/UDDigiKyokashoN-R.ttc") format("truetype");
@@ -26,6 +26,7 @@ a {
 
 html {
   scroll-behavior: smooth;
+  font-family: "Noto Sans JP", sans-serif;
   font-size: 1px;
 }
 @media screen and (max-width: 1920px) {
@@ -286,7 +287,7 @@ figure {
   }
 }
 .c-header__items .__item a {
-  font-family: "UDDigiKyokashoN-R", sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
   font-size: 18px;
   color: #FF9293;
   letter-spacing: 3rem;
@@ -301,7 +302,7 @@ figure {
   width: 100%;
 }
 .c-header__items .__item_input a {
-  font-family: "UDDigiKyokashoN-R", sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
   font-size: 20rem;
   width: 125rem;
   height: 40rem;
@@ -332,7 +333,7 @@ figure {
   }
 }
 .c-header__la {
-  font-family: "UDDigiKyokashoN-R", sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
   font-weight: bold;
   font-size: 22rem;
   color: #080808;
@@ -387,7 +388,7 @@ figure {
   }
 }
 .c-header__sp--items .__sp-item a {
-  font-family: "UDDigiKyokashoN-R", sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
   font-weight: bold;
   font-size: 26px;
   line-height: 70px;
@@ -436,7 +437,7 @@ figure {
   }
 }
 .c-footer__items .__item a {
-  font-family: "UDDigiKyokashoN-R", sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
   font-size: 20rem;
   letter-spacing: 4rem;
   color: #fff;
@@ -450,7 +451,7 @@ figure {
   width: 100%;
 }
 .c-footer__items .__item_input a {
-  font-family: "UDDigiKyokashoN-R", sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
   font-weight: bold;
   font-size: 20rem;
   width: 125rem;
